@@ -1,5 +1,5 @@
 # Data Analysis Projects
-Portfolio of data analysis projects demonstrating Python, pandas and predictive modelling
+Portfolio of data analysis projects demonstrating Python, pandas and predictive modelling.
 
 ## Projects:
 
